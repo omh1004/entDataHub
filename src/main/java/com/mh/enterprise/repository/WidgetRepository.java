@@ -1,7 +1,7 @@
-package com.mh.enterprice.repository;
+package com.mh.enterprise.repository;
 
-import com.mh.enterprice.entity.Dashboard;
-import com.mh.enterprice.entity.Widget;
+import com.mh.enterprise.entity.Dashboard;
+import com.mh.enterprise.entity.Widget;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

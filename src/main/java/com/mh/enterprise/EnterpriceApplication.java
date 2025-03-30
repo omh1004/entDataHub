@@ -1,4 +1,4 @@
-package com.mh.enterprice;
+package com.mh.enterprise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

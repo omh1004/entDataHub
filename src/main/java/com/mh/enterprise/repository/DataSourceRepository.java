@@ -1,6 +1,6 @@
-package com.mh.enterprice.repository;
+package com.mh.enterprise.repository;
 
-import com.mh.enterprice.entity.DataSource;
+import com.mh.enterprise.entity.DataSource;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

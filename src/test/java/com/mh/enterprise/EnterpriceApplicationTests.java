@@ -1,4 +1,4 @@
-package com.mh.enterprice;
+package com.mh.enterprise;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

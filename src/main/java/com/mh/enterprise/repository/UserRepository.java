@@ -1,6 +1,6 @@
-package com.mh.enterprice.repository;
+package com.mh.enterprise.repository;
 
-import com.mh.enterprice.entity.User;
+import com.mh.enterprise.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
